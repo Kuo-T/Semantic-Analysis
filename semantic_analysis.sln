@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "semantic_analysis", "semantic_analysis.vcxproj", "{740F0EF5-DBDD-403A-B2C1-92EF946B6455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{740F0EF5-DBDD-403A-B2C1-92EF946B6455}.Debug|Win32.ActiveCfg = Debug|Win32
+		{740F0EF5-DBDD-403A-B2C1-92EF946B6455}.Debug|Win32.Build.0 = Debug|Win32
+		{740F0EF5-DBDD-403A-B2C1-92EF946B6455}.Release|Win32.ActiveCfg = Release|Win32
+		{740F0EF5-DBDD-403A-B2C1-92EF946B6455}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
